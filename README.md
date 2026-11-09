@@ -1,7 +1,7 @@
 # TheSquareLiminalChip
 A custom devboard that can be a replacement for the ESP and Rasberries.
 
-<img width="350" height="587" alt="3DRender" src="https://github.com/user-attachments/assets/641d93ca-d80a-4a9a-92f4-5b12be16b778" />
+  <img width="382" height="577" alt="3Drenderweek5" src="https://github.com/user-attachments/assets/c56777d4-8b9d-4458-8abb-64b7746a13f2" />
 
 # Description
 This is a custom devboard meant to be like the ESPs and Rasberries. It has a USB-C port, flash memory, IOs, etc. Specifically this is a RP2040 devboard designed to be a versatile, low-cost microcontroller platform. Basically, I made my own microcontroller.

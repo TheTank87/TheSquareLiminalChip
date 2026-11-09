@@ -12,6 +12,12 @@ This is a custom devboard meant to be like the ESPs and Rasberries. It has a USB
 * Flash Memory storage
 * Crystal Oscillator
 
+# BOM
+
+|Item|Qty|Supplier|Cost|Link|
+|-----|--|-------|-----|-----|
+|Assembled Devboard|1|JLCPCB|$65.68|[Link](	https://jlcpcb.com/)|
+
 # Schematic and PCB Design
 
 <img width="916" height="634" alt="Screenshot 2026-11-08 at 6 22 35 PM" src="https://github.com/user-attachments/assets/2458d8d4-ba31-4c23-94c6-43a5bc940356" />
